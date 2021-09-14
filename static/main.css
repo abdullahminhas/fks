@@ -1,0 +1,11 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f0f2f5;
+}
+.profile-dym {
+  width: 125px;
+  height: 125px;
+  /* height: auto; */
+  border-radius: 50%;
+  border: 3px solid gray;
+}
